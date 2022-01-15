@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @krem-cheese
-- 👀 I’m interested in cognitive computational neuroscience!!
-- 🌱 I’m currently learning signal processing and neurology. I'm also a nanotechnology engineering student :P
 - 📫 Email me at krhabashy@gmail.com! I would love to talk
 
 <!---
